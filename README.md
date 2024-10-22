@@ -1,4 +1,6 @@
 <h1>Hola</h1> <br>
+<img src="recursos\tiburon-blanco-white-shark-1.jpg" alt="Imagen centrada" width="350" height="200">
+
 Soy Roberto Alanís Hernández Arredondo <br>
 A continuación le dejo mis redes sociales: <br><br>
 https://www.facebook.com/profile.php?id=100045966193656 <br>
