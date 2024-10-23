@@ -1,7 +1,7 @@
 <div align="center">
 <h1 aling="center">Hola yo soy FenixHD10</h1> <br>
 </div>
-<img src="imagen_2024-10-22_085236865.png" alt="Imagen centrada" width="100%" height="450px">
+<img src="imagen_2024-10-23_075934461.png" alt="Imagen centrada" width="100%" height="450px">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/FenixHD10">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMDbs6Khe3_AWB1W6shnCog">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FenixHD10/hola">
