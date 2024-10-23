@@ -1,6 +1,6 @@
-<h1>Hola</h1> <br>
+<h1 aling="center">Hola</h1> <br>
 <img src="imagen_2024-10-22_085236865.png" alt="Imagen centrada" width="100%" height="450px">
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/:FenixHD10">
 Soy Roberto Alanís Hernández Arredondo <br>
 A continuación le dejo mis redes sociales: <br><br>
 https://www.facebook.com/profile.php?id=100045966193656 <br>
@@ -13,7 +13,7 @@ https://youtu.be/3GymExBkKjE?si=4oxJGJaEBkqIjFeR
 <br><br>
 A continuación un resumen de mi experiencia en la programación
 <br>
-Soy alumno del Bachillerato Militarizado Reynosa, estudainte del taller de programación, cuento con conocimiento avanzado en el manejo y control de HTML, Java Script Vs code y C++  asimismo conozco y utilizo eficientemente el Git Hub, dandome una facilidad para trabajar de manera conjunta con un equipo de desarrollo.
+<p aling="justifi">Soy alumno del Bachillerato Militarizado Reynosa, estudainte del taller de programación, cuento con conocimiento avanzado en el manejo y control de HTML, Java Script Vs code y C++  asimismo conozco y utilizo eficientemente el Git Hub, dandome una facilidad para trabajar de manera conjunta con un equipo de desarrollo.</p>
 
 <!---
 FenixHD10/FenixHD10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
