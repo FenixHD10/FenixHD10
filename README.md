@@ -21,7 +21,7 @@ https://www.instagram.com/fenixhd010/ <br><br>
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Básico de Vscode</h3>
+<h3 align="center">El administrador de tareas</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=gxaOjRjRV5Y" target="_blank"><img src="https://i.ytimg.com/an_webp/gxaOjRjRV5Y/mqdefault_6s.webp?du=3000&sqp=CPbworkG&rs=AOn4CLBweWG69H5pO1xoUqieop_aUUxzlA" width="400" alt="Curso básico android"></a>
 <br>
@@ -30,7 +30,7 @@ https://www.instagram.com/fenixhd010/ <br><br>
                                                                                      
 </td>
 <td width="50%"><br>
-<h3 align="center">Conoce todo sobre Git Hub</h3>
+<h3 align="center">La zona Wifi</h3>
 <div align="center">                                       
 <a href="https://www.youtube.com/watch?v=Wsy_WYaczDE" target="_blank"><img src="https://i.ytimg.com/an_webp/gxaOjRjRV5Y/mqdefault_6s.webp?du=3000&sqp=CPbworkG&rs=AOn4CLBweWG69H5pO1xoUqieop_aUUxzlA" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
