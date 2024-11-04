@@ -18,24 +18,23 @@ https://www.instagram.com/fenixhd010/ <br><br>
   A continuación 2 Videos de los cuales he contado el gusto de participar <br><br>
 
 
-
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Básico de Vscode</h3>
 <div align="center">
-<a href="https://youtu.be/CxF3ykWP1H4?si=P8IzJSMRjlk8_Iff" target="_blank"><img src="https://i.ytimg.com/vi/CxF3ykWP1H4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3bYEZI7qhUoGh5uckzqJ4QqMykw" width="400" alt="Curso básico android"></a>
+<a href="https://www.youtube.com/watch?v=gxaOjRjRV5Y" target="_blank"><img src="https://i.ytimg.com/an_webp/gxaOjRjRV5Y/mqdefault_6s.webp?du=3000&sqp=CPbworkG&rs=AOn4CLBweWG69H5pO1xoUqieop_aUUxzlA" width="400" alt="Curso básico android"></a>
 <br>
-<p>Aprende a programar aplicaciones utilizando el comodo y sencillo Visual Studio Code.</p>
+<p>Tutorial basico sobre que es el administrador de tareas y cuales son sus funciones.</p>
 </div>
                                                                                      
 </td>
 <td width="50%"><br>
 <h3 align="center">Conoce todo sobre Git Hub</h3>
 <div align="center">                                       
-<a href="https://youtu.be/3GymExBkKjE?si=4oxJGJaEBkqIjFeR" target="_blank"><img src="https://i.ytimg.com/vi/3GymExBkKjE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUb4rEmYj6lS17GfVI_Gdh1-fccQv " width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://www.youtube.com/watch?v=Wsy_WYaczDE" target="_blank"><img src="https://i.ytimg.com/an_webp/gxaOjRjRV5Y/mqdefault_6s.webp?du=3000&sqp=CPbworkG&rs=AOn4CLBweWG69H5pO1xoUqieop_aUUxzlA" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
-</p>Tutorial completo sobre el uso y manejo adecuado de Git Hub incluyendo todas las funciones y tips para un mejor manejo de este.</p>
+</p>Tutorial completo como compartir internet a traves de nuestro ordenador para el uso de todos nuestros compañeros.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -48,7 +47,7 @@ A continuación un resumen de mi experiencia en la programación
 <div align="justify">
 <p aling="justify">Soy alumno del Bachillerato Militarizado Reynosa, estudainte del taller de programación, cuento con conocimiento avanzado en el manejo y control de HTML, Java Script Vs code y C++  asimismo conozco y utilizo eficientemente el Git Hub, dandome una facilidad para trabajar de manera conjunta con un equipo de desarrollo.</p>
 </div>
-<!--- https://www.youtube.com/@robertoalanishernandezarre4001
+<!--- https://www.youtube.com/@robertoalanishernandezarre4001 https://www.youtube.com/watch?v=gxaOjRjRV5Y
 FenixHD10/FenixHD10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
